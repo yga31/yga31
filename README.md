@@ -15,9 +15,6 @@
 <h2>See my project</h2>
 <ul>
   <li>
-    <a href="https://www.github.com/yga31/emojimatch">Emojimatch</a>
-  </li>
-  <li>
     <a href="https://www.github.com/yga31/snake-cli">Snake-CLI</a>
   </li>
 </ul>
