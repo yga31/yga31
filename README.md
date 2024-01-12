@@ -1,16 +1,11 @@
-### Hi there 👋
-
-<!--
-**yga31/yga31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <h2>⌜ YOGA / ZEN ⌟</h2>
+  <a href="https://saweria.co/ygaa">Saweria</a> | <a href="https://github.com/yga31">Github</a> <br/>
+  <p>
+    <samp>Hi, I'm a beginner programmer. I'm learning HTML, CSS, Javascript, Golang and C</samp>
+  </p>
+  <details>
+    <summary>My current projects</summary>
+    <samp>1. Luna🌕</samp><br />
+  </details>
+</div>
