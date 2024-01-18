@@ -6,6 +6,6 @@
   </p>
   <details>
     <summary><samp>My current projects</samp></summary>
-    <samp>1. Luna🌕</samp><br />
+    <samp>1. Nv</samp><br />
   </details>
 </div>
