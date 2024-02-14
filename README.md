@@ -6,6 +6,6 @@
   </p>
   <details>
     <summary><samp>My current projects</samp></summary>
-    <samp>1. Nv</samp><br />
+    <samp>1. nn</samp><br />
   </details>
 </div>
